@@ -65,6 +65,7 @@ a) As we see there is district separation in target base on the Age
 
 b) Check the correlation between numerical features and target; As we see the duration is most correlated feature vs target
 
+
 duration          0.393530
 previous          0.228003
 cons.conf.idx     0.061638
