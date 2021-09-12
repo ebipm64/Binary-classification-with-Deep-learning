@@ -67,13 +67,23 @@ b) Check the correlation between numerical features and target; As we see the du
 
 
 duration          0.393530
+
 previous          0.228003
+
 cons.conf.idx     0.061638
+
 age               0.048727
+
 campaign         -0.069206
+
 cons.price.idx   -0.128752
+
 emp.var.rate     -0.305365
+
 euribor3m        -0.315869
+
 pdays            -0.327509
+
 nr.employed      -0.364230
+
 Name: target, dtype: float64
