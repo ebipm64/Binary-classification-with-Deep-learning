@@ -63,4 +63,16 @@ In this section we do some analysis base on the data set
 a) As we see there is district separation in target base on the Age 
 ![age vs target](https://user-images.githubusercontent.com/71351619/132996477-80004a1e-7c6f-40e6-8910-aaa31a102802.png)
 
+b) Check the correlation between numerical features and target; As we see the duration is most correlated feature vs target
 
+duration          0.393530
+previous          0.228003
+cons.conf.idx     0.061638
+age               0.048727
+campaign         -0.069206
+cons.price.idx   -0.128752
+emp.var.rate     -0.305365
+euribor3m        -0.315869
+pdays            -0.327509
+nr.employed      -0.364230
+Name: target, dtype: float64
