@@ -51,3 +51,8 @@
 
   Output variable (desired target):
   21 - y - has the client subscribed a term deposit? (binary: "yes","no")
+
+---------------------------------------------------------------------------------------------------------------------------------
+# Data Cleaning: 
+a) First check the data set for NULL values
+b) As the most of the features are categorical it's hard to fill out the "unknown" data with conventional method to fill them out. Meanwhile the data set are large enougth so we drop 'Unknown' data. 
