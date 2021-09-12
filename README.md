@@ -57,3 +57,8 @@
 a) First check the data set for NULL values
 
 b) As the most of the features are categorical it's hard to fill out the "unknown" data with conventional method to fill them out. Meanwhile the data set are large enougth so we drop 'Unknown' data. 
+
+# Explorotory Data Analysis(Exploratory Data Analysis)
+In this section we do some analysis base on the data set
+
+![age vs target](https://user-images.githubusercontent.com/71351619/132996477-80004a1e-7c6f-40e6-8910-aaa31a102802.png)
