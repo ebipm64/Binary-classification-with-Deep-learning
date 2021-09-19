@@ -72,7 +72,10 @@ b) Check the correlation between numerical features and target; As it's seen the
 # Model Deployment
 Following steps were applied:
 a) Balanced the labels using the oversamplig method
+
 b) Convetred the object types features to numerical using get_dummies method
+
 c) Split the data to train and test sets
-c) Scaled the features by StandardScaler
+
+d) Scaled the features by StandardScaler
 d) 
