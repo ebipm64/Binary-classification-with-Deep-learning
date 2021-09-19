@@ -94,7 +94,15 @@ a) Define the Dropout layer
 b) Use the earlystopping
 
 ---------------------------------------------------------------------------------------------------------------------------------
+# Model Evaluation
 
+a) Plot the loss for train and test data set to monitor the overfitting
+
+b) Classification Report
+
+c) Plot ROC and AUC curve
+
+e) Confusion_matrix
 
 
 
