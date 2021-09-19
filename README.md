@@ -69,13 +69,32 @@ b) Check the correlation between numerical features and target; As it's seen the
 
 ![target corr](https://user-images.githubusercontent.com/71351619/132996750-714fa1ef-ef56-4bbc-bfd0-7f6a1791bea7.png)
 ---------------------------------------------------------------------------------------------------------------------------------
-# Model Deployment
+# Preparation
 Following steps were applied:
-a) Balanced the labels using the oversamplig method
+a) Balance the labels using the oversamplig method
 
-b) Convetred the object types features to numerical using get_dummies method
+b) Convert the object types features to numerical; using get_dummies method
 
 c) Split the data to train and test sets
 
-d) Scaled the features by StandardScaler
-d) 
+d) Scale the features using  StandardScaler
+
+---------------------------------------------------------------------------------------------------------------------------------
+# Model Deployment
+
+Define the model: Total layer 4; 2 hidden layer
+
+Activation layer: Relu for first 3 layer. As this is a classification task last layer must be Sigmoid
+
+Avoiding the overfitting:
+For avoinding the overfitting I applied two scales
+
+a) Define the Dropout layer
+
+b) Use the earlystopping
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
