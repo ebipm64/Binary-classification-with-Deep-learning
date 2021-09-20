@@ -106,6 +106,14 @@ b) Classification Report
 
 c) Plot ROC and AUC(Area Under Curve) curve
 
+![ROC curve](https://user-images.githubusercontent.com/71351619/133947742-37644023-6b1b-496f-8f3f-16d0ee2228a0.png)
+
+
+
+
+
+
+
 e) Confusion_matrix
 
 
