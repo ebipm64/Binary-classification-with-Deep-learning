@@ -82,16 +82,16 @@ d) Scale the features using  StandardScaler
 ---------------------------------------------------------------------------------------------------------------------------------
 # Model Deployment
 
-Define the model: Total layer 4; 2 hidden layer
+a) Define the model: Total layer 4; 2 hidden layer
 
-Activation layer: Relu for first 3 layer. As this is a classification task last layer must be Sigmoid
+b) Activation function: Relu for first 3 layers. As this is a classification task then the last layer must be a Sigmoid
 
-Avoiding the overfitting:
+c) Avoiding the overfitting:
 For avoinding the overfitting I applied two scales
 
-a) Define the Dropout layer
+1. Define the Dropout layer
 
-b) Use the earlystopping
+2. Use the earlystopping
 
 ---------------------------------------------------------------------------------------------------------------------------------
 # Model Evaluation
@@ -99,6 +99,10 @@ b) Use the earlystopping
 a) Plot the loss for train and test data set to monitor the overfitting
 
 b) Classification Report
+
+
+<img width="383" alt="Classification Report" src="https://user-images.githubusercontent.com/71351619/133947694-5d95556e-7f73-4cb0-9a39-ce8951854cc2.PNG">
+
 
 c) Plot ROC and AUC curve
 
