@@ -101,7 +101,7 @@ a) Plot the loss for train and test data set to monitor the overfitting
 b) Classification Report
 
 
-<img width="383" alt="Classification Report" src="https://user-images.githubusercontent.com/71351619/133947694-5d95556e-7f73-4cb0-9a39-ce8951854cc2.PNG">
+<img width="700" alt="Classification Report" src="https://user-images.githubusercontent.com/71351619/133947797-d824ca47-1f49-49a0-99ea-528757c889f0.PNG">
 
 
 c) Plot ROC and AUC(Area Under Curve) curve
