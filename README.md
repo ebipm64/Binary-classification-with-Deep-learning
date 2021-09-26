@@ -98,6 +98,9 @@ For avoinding the overfitting I applied two scales
 
 a) Plot the loss for train and test data set to monitor the overfitting
 
+![loss vs val](https://user-images.githubusercontent.com/71351619/133952635-a5ab7b7e-5424-44c9-9e7d-26ddc92f7b38.png)
+
+
 b) Classification Report
 
 
