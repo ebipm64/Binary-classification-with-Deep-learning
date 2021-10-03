@@ -98,7 +98,7 @@ For avoinding the overfitting I applied two scales
 
 a) Plot the loss for train and test data set to monitor the overfitting
 
-![loss vs val](https://user-images.githubusercontent.com/71351619/133952635-a5ab7b7e-5424-44c9-9e7d-26ddc92f7b38.png)
+<img width="474" alt="loss vs val" src="https://user-images.githubusercontent.com/71351619/135737688-ea4d06c3-94ba-46b6-a566-1439ae8bc68f.png">
 
 
 b) Classification Report
@@ -116,8 +116,8 @@ c) Plot ROC and AUC(Area Under Curve) curve
 
 
 
-
 e) Confusion_matrix
 
 
+<img width="102" alt="confusion matrix" src="https://user-images.githubusercontent.com/71351619/135737691-9a68eada-c212-47a7-b785-08000b04c947.PNG">
 
